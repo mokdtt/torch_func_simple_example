@@ -1,6 +1,6 @@
 # torch_func_simple_example
 
-This repository contains two notebooks demonstrating the usage of `torch.func`.
+This repository contains two notebooks demonstrating the usage of `torch.func` (PyTorch).
 
 ## Notebook 1: Understanding Gradient and Hessian Calculation
 
